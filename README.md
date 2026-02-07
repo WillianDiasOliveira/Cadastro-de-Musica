@@ -11,8 +11,6 @@ Sugestões e melhorias são sempre bem-vindas!</p>
 
 <h2>📖 Descrição do código </h2>
 
-O objetivo deste projeto é aplicar conceitos básicos de programação em Python para criar uma calculadora de gorjeta.<br>
-
 O desafio é desenvolver um programa que utilize classes para representar músicas e organizar um catálogo musical. O sistema deve permitir cadastrar músicas com nome, artista e duração, armazenando todas em uma lista compartilhada da classe.
 Também é implementado um método para listar todas as músicas cadastradas de forma estruturada, praticando conceitos como atributos de classe, métodos e organização de dados utilizando Programação Orientada a Objetos
 
